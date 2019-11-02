@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1786e9f.chunk.css",
+    "main.js": "/static/js/main.a4068e92.chunk.js",
+    "main.js.map": "/static/js/main.a4068e92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.552b7e17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.552b7e17.js.map",
+    "static/js/2.03f7b712.chunk.js": "/static/js/2.03f7b712.chunk.js",
+    "static/js/2.03f7b712.chunk.js.map": "/static/js/2.03f7b712.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cbf208cb55063a80e8b66d24acfa8327.js": "/precache-manifest.cbf208cb55063a80e8b66d24acfa8327.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f1786e9f.chunk.css.map": "/static/css/main.f1786e9f.chunk.css.map",
+    "static/media/catatonicclub.png": "/static/media/catatonicclub.6cc74a74.png",
+    "static/media/cloud.svg": "/static/media/cloud.5f7a1909.svg",
+    "static/media/cwstats.png": "/static/media/cwstats.97f128c7.png",
+    "static/media/heavencat.png": "/static/media/heavencat.fc66c076.png",
+    "static/media/magnus.png": "/static/media/magnus.c8e43b1e.png",
+    "static/media/myaccountvasttrafik.png": "/static/media/myaccountvasttrafik.4c3a6ec3.png",
+    "static/media/Hero.scss": "/static/media/sun-sky.742a6cd9.svg",
+    "static/media/vasttrafik.png": "/static/media/vasttrafik.d0fe7a66.png",
+    "static/media/white-arrow.svg": "/static/media/white-arrow.4be78398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.552b7e17.js",
+    "static/js/2.03f7b712.chunk.js",
+    "static/css/main.f1786e9f.chunk.css",
+    "static/js/main.a4068e92.chunk.js"
+  ]
+}
