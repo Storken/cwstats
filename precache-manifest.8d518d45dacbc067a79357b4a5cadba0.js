@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7e72b91f5297d99ed97b57161d742b7",
+    "revision": "1013feb7415041106f5a6e6be6fd1527",
     "url": "/index.html"
   },
   {
-    "revision": "81c237f763fd698c29d3",
-    "url": "/static/css/main.86ee6af8.chunk.css"
+    "revision": "f01b2aae6db9e6e05b18",
+    "url": "/static/css/main.8b273132.chunk.css"
   },
   {
-    "revision": "840a2f99eeff5b0f6e0e",
-    "url": "/static/js/2.03f7b712.chunk.js"
+    "revision": "20a2412869c4b2ae1bbd",
+    "url": "/static/js/2.781ea2be.chunk.js"
   },
   {
-    "revision": "81c237f763fd698c29d3",
-    "url": "/static/js/main.35a502fa.chunk.js"
+    "revision": "f01b2aae6db9e6e05b18",
+    "url": "/static/js/main.07fdb188.chunk.js"
   },
   {
     "revision": "578d431d20714ddbbb1d",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4c3a6ec3c29dc888b899420deb2637db",
     "url": "/static/media/myaccountvasttrafik.4c3a6ec3.png"
+  },
+  {
+    "revision": "fe9f39fda1047c76a38afd9b7a0baf52",
+    "url": "/static/media/portfolio.fe9f39fd.png"
   },
   {
     "revision": "742a6cd9d154d643e173440c92f53a51",

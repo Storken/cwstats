@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.86ee6af8.chunk.css",
-    "main.js": "/static/js/main.35a502fa.chunk.js",
-    "main.js.map": "/static/js/main.35a502fa.chunk.js.map",
+    "main.css": "/static/css/main.8b273132.chunk.css",
+    "main.js": "/static/js/main.07fdb188.chunk.js",
+    "main.js.map": "/static/js/main.07fdb188.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.552b7e17.js",
     "runtime-main.js.map": "/static/js/runtime-main.552b7e17.js.map",
-    "static/js/2.03f7b712.chunk.js": "/static/js/2.03f7b712.chunk.js",
-    "static/js/2.03f7b712.chunk.js.map": "/static/js/2.03f7b712.chunk.js.map",
+    "static/js/2.781ea2be.chunk.js": "/static/js/2.781ea2be.chunk.js",
+    "static/js/2.781ea2be.chunk.js.map": "/static/js/2.781ea2be.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e92c540efd36b0b75bb3091b28d2a2ac.js": "/precache-manifest.e92c540efd36b0b75bb3091b28d2a2ac.js",
+    "precache-manifest.8d518d45dacbc067a79357b4a5cadba0.js": "/precache-manifest.8d518d45dacbc067a79357b4a5cadba0.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.86ee6af8.chunk.css.map": "/static/css/main.86ee6af8.chunk.css.map",
+    "static/css/main.8b273132.chunk.css.map": "/static/css/main.8b273132.chunk.css.map",
     "static/media/catatonicclub.png": "/static/media/catatonicclub.6cc74a74.png",
     "static/media/cloud.svg": "/static/media/cloud.5f7a1909.svg",
     "static/media/cwstats.png": "/static/media/cwstats.97f128c7.png",
     "static/media/heavencat.png": "/static/media/heavencat.fc66c076.png",
     "static/media/magnus.png": "/static/media/magnus.c8e43b1e.png",
     "static/media/myaccountvasttrafik.png": "/static/media/myaccountvasttrafik.4c3a6ec3.png",
+    "static/media/portfolio.png": "/static/media/portfolio.fe9f39fd.png",
     "static/media/Hero.scss": "/static/media/sun-sky.742a6cd9.svg",
     "static/media/vasttrafik.png": "/static/media/vasttrafik.d0fe7a66.png",
     "static/media/white-arrow.svg": "/static/media/white-arrow.4be78398.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.552b7e17.js",
-    "static/js/2.03f7b712.chunk.js",
-    "static/css/main.86ee6af8.chunk.css",
-    "static/js/main.35a502fa.chunk.js"
+    "static/js/2.781ea2be.chunk.js",
+    "static/css/main.8b273132.chunk.css",
+    "static/js/main.07fdb188.chunk.js"
   ]
 }
