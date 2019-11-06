@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bbf9286e1bf462bd258ba791b8bd35c0",
+    "revision": "554dd94ed1be1f49df8811fe095e9b3a",
     "url": "/index.html"
   },
   {
-    "revision": "bf4a68cf408fbd99b45d",
+    "revision": "1f2d48f34171d75bb114",
     "url": "/static/css/main.f02bff17.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.58ee52cf.chunk.js"
   },
   {
-    "revision": "bf4a68cf408fbd99b45d",
-    "url": "/static/js/main.bb509a1c.chunk.js"
+    "revision": "1f2d48f34171d75bb114",
+    "url": "/static/js/main.2ee7aa3d.chunk.js"
   },
   {
     "revision": "578d431d20714ddbbb1d",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/myaccountvasttrafik.4c3a6ec3.png"
   },
   {
-    "revision": "fe9f39fda1047c76a38afd9b7a0baf52",
-    "url": "/static/media/portfolio.fe9f39fd.png"
+    "revision": "d8cfae434b0dfbe44126febec9bc554a",
+    "url": "/static/media/portfolio.d8cfae43.png"
   },
   {
     "revision": "742a6cd9d154d643e173440c92f53a51",
