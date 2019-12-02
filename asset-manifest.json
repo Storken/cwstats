@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.42dbd484.chunk.css",
-    "main.js": "/static/js/main.e895c21a.chunk.js",
-    "main.js.map": "/static/js/main.e895c21a.chunk.js.map",
+    "main.css": "/static/css/main.73fb727a.chunk.css",
+    "main.js": "/static/js/main.15e12d69.chunk.js",
+    "main.js.map": "/static/js/main.15e12d69.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.552b7e17.js",
     "runtime-main.js.map": "/static/js/runtime-main.552b7e17.js.map",
-    "static/js/2.58ee52cf.chunk.js": "/static/js/2.58ee52cf.chunk.js",
-    "static/js/2.58ee52cf.chunk.js.map": "/static/js/2.58ee52cf.chunk.js.map",
+    "static/js/2.1f5c38b1.chunk.js": "/static/js/2.1f5c38b1.chunk.js",
+    "static/js/2.1f5c38b1.chunk.js.map": "/static/js/2.1f5c38b1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7b26876571654514dc2a9ed9c172ffd1.js": "/precache-manifest.7b26876571654514dc2a9ed9c172ffd1.js",
+    "precache-manifest.9110dc32abf81d639fb780a9d3b4fb29.js": "/precache-manifest.9110dc32abf81d639fb780a9d3b4fb29.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.42dbd484.chunk.css.map": "/static/css/main.42dbd484.chunk.css.map",
+    "static/css/main.73fb727a.chunk.css.map": "/static/css/main.73fb727a.chunk.css.map",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.b803d228.svg",
     "static/media/catatonicclub.png": "/static/media/catatonicclub.6cc74a74.png",
     "static/media/cloud.svg": "/static/media/cloud.79aca465.svg",
     "static/media/cwstats.png": "/static/media/cwstats.97f128c7.png",
     "static/media/heavencat.png": "/static/media/heavencat.fbaf358d.png",
     "static/media/magnus.png": "/static/media/magnus.c8e43b1e.png",
     "static/media/myaccountvasttrafik.png": "/static/media/myaccountvasttrafik.4c3a6ec3.png",
-    "static/media/portfolio.png": "/static/media/portfolio.d8cfae43.png",
+    "static/media/portfolio.png": "/static/media/portfolio.25ae6f60.png",
     "static/media/Hero.scss": "/static/media/sun-sky.742a6cd9.svg",
     "static/media/vasttrafik.png": "/static/media/vasttrafik.d0fe7a66.png",
     "static/media/white-arrow.svg": "/static/media/white-arrow.4be78398.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.552b7e17.js",
-    "static/js/2.58ee52cf.chunk.js",
-    "static/css/main.42dbd484.chunk.css",
-    "static/js/main.e895c21a.chunk.js"
+    "static/js/2.1f5c38b1.chunk.js",
+    "static/css/main.73fb727a.chunk.css",
+    "static/js/main.15e12d69.chunk.js"
   ]
 }
